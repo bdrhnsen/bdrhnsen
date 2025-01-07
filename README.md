@@ -1,6 +1,6 @@
 # Hello, I'm Bedirhan Sen!  
 
-🔧 **Robotics and Control Engineer | Autonomous Systems Enthusiast | Problem Solver**
+🔧 **Robotics and Control Engineer**
 
 I'm a soon to be master's graduate in **Systems and Automation** from RWTH Aachen University, with a strong focus on **robotics**, **control systems** and **machine learning**. My passion lies in designing, implementing, and optimizing advanced algorithms for real-world autonomous systems.  
 
