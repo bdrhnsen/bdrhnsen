@@ -17,6 +17,10 @@ I'm a soon to be master's graduate in **Systems and Automation** from RWTH Aache
 ### 🔹 [Automated Gym Environment Ros Node Converter](https://github.com/bdrhnsen/Auto-Ros-Node-From-Gym)
 - Developed a framework for automatically generating ROS2 nodes from Gymnasium environments.
 - This project enables to usage of Gymnasium or OpenAIGym type environments to be used in ROS directly.
+
+### 🔹 [Reinforcement Learning Action Probability and Reward Visualizer](https://github.com/bdrhnsen/rl_visualizer)
+- Works with StableBaselines3 and Gymanisum. Goal is to visualize action probabilities and rewards.
+
 ---
 
 
