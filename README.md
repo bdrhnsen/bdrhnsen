@@ -21,6 +21,10 @@ I'm a soon to be master's graduate in **Systems and Automation** from RWTH Aache
 ### 🔹 [Reinforcement Learning Action Probability and Reward Visualizer](https://github.com/bdrhnsen/rl_visualizer)
 - Works with StableBaselines3 and Gymanisum. Goal is to visualize action probabilities and rewards.
 
+### 🔹 [Ros2 demo udp message sender and receiver](https://github.com/bdrhnsen/Ros2Udp)
+- This repository contains two ROS 2 nodes designed for UDP communication. These nodes facilitate data exchange between systems using the User Datagram Protocol (UDP). The implementation includes a listener node (ros2_udp_listener) and a sender node (ros2_udp_sender).
+
+
 ---
 
 
