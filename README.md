@@ -8,7 +8,7 @@ I'm a soon to be master's graduate in **Systems and Automation** from RWTH Aache
 
 ## 🚀 Key Projects
 
-### 🔹 Automated Highway Driving  
+### 🔹 [Highway Simulation](https://github.com/bdrhnsen/HighwaySimulation)  
 - Developed a **custom highway simulation** compatible with OpenAI Gym to train RL agents for **lane-change decision-making** and **speed optimization**.  
 - Designed and implemented a **polynomial trajectory planner** and an **MPC-based trajectory follower** for smooth and collision-free driving.  
 - Used **ROS2** for system communication and closed-loop autonomous driving in a dynamic driving simulator.
